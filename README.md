@@ -16,3 +16,13 @@ Answers that arecorrect add 1 point to the users scores.
 After the ten questions have been answered the user is taken to the end game scene where all ten questions are listed out with their respective scores.
 
 After reading the scores there is a button for the user to start a new round or they can exit the program. 
+
+------------------------------------------------------------------------------------------------------------------------------------
+# Project requirements
+
+Use a generic method to add the objects together for the questions.
+
+Take .txt file as input to get questions and answers
+
+Connect to SQLite database and save user's name and score into a table.
+
